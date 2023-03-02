@@ -1,9 +1,8 @@
 <h1 align="center"><a href="https://www.flagistrany.ru/ssha"><img alt="Flag of the United States of America"
             src="https://cdn-0.emojis.wiki/emoji-pics/twitter/united-states-twitter.png" width="40" /></a> Welcome
     to&nbsp;the
-    <span style="font-family:Verdana, Geneva, Tahoma, sans-serif;">pro{<span
-            style='color: green;'>CODE</span>}stinator</span>!
-</h1>
+    <span style="font-family:Verdana, Geneva, Tahoma, sans-serif;"><a href="https://kacivan.github.io/proCODEstinator/">pro{<span
+            style='color: green;'>CODE</span>}stinator</a></span>!</h1>
 <p align="center" style="font-size: 20px;"><b>DESCRIPTION</b>: pro{<span
         style='color: green;'>CODE</span>}stinator&nbsp;&mdash; is&nbsp;a&nbsp;modified funny procrastination generator
     for programmers, based on&nbsp;the exercise &laquo;Master of&nbsp;Procrastination&raquo; from <a
@@ -14,8 +13,8 @@
 <hr>
 <h1 align="center"><a href="https://www.flagistrany.ru/rossija"><img alt="Флаг России"
             src="https://cdn-0.emojis.wiki/emoji-pics/twitter/russia-twitter.png" width="40" /></a></a> Добро пожаловать
-    в&nbsp;<span style="font-family:Verdana, Geneva, Tahoma, sans-serif;">про{<span
-            style='color: green;'>CODE</span>}стинатор</span>!</h1>
+    в&nbsp;<span style="font-family:Verdana, Geneva, Tahoma, sans-serif;"><a href="https://kacivan.github.io/proCODEstinator/">про{<span
+            style='color: green;'>CODE</span>}стинатор</a></span>!</h1>
 <p align="center" style="font-size: 20px;"><b>ОПИСАНИЕ</b>:
     про{<span style='color: green;'>CODE</span>}стинатор&nbsp;&mdash; это модифицированный шутливый генератор
     прокрастинации для программистов, основанный на&nbsp;упражнении &laquo;Мастер прокрастинации&raquo; от&nbsp;<a
