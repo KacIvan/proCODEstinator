@@ -1,0 +1,85 @@
+@media (max-width: 560px) {
+  body {
+    padding: 24px;
+  }
+
+  ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  .logo {
+    font-size: 20px;
+  }
+
+  .logo2 {
+    font-size: 16px;
+    width: 250px;
+  }
+
+  .button {
+    width: 35px;
+    height: 40px;
+    min-width: 35px;
+    min-height: 40px;
+  }
+
+  .icon {
+    padding-top: 25%;
+    width: 65%;
+    filter: invert(100%);
+  }
+
+  .tooltip .tooltiptext {
+    font-size: 12px;
+    width: 60px;
+    padding: 10px 5px;
+    left: 100%;
+  }
+
+  .image {
+    margin: 50px auto 50px;
+  }
+
+  .advice {
+    font-size: 24px !important;
+  }
+
+  .cursor {
+    width: 8px;
+  }
+
+  .author {
+    font-size: 16px;
+    margin-bottom: 2px;
+  }
+
+  .logo-contact {
+    margin-top: 3px;
+    margin-bottom: 3px;
+  }
+
+  .footer {
+    font-size: 12px;
+    bottom: 24px;
+  }
+}
+
+@media (min-height: 800px) {
+  body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .header {
+    width: calc(100% - 72px);
+    position: absolute;
+    top: 36px;
+  }
+
+  .image {
+    margin: 0 auto 50px;
+  }
+}
