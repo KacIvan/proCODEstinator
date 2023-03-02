@@ -5,7 +5,7 @@
             style='color: green;'>CODE</span>}stinator</a></span>!</h1>
 <p align="center" style="font-size: 20px;"><b>DESCRIPTION</b>: pro{<span
         style='color: green;'>CODE</span>}stinator&nbsp;&mdash; is&nbsp;a&nbsp;modified funny procrastination generator
-    for programmers, based on&nbsp;the exercise &laquo;Master of&nbsp;Procrastination&raquo; from <a
+    for programmers, based on&nbsp;the idea of exercise &laquo;Master of&nbsp;Procrastination&raquo; from <a
         style="font-weight: bold; color: black;" href="https://practicum.yandex.ru">Yandex.Practicum</a></p>
 <p align="center" style="font-size: 20px;"><b>HOW
         TO&nbsp;USE</b>: Click on&nbsp;the button &laquo;<span style="font-size: 30px;">↺</span>&raquo; and generate
@@ -17,7 +17,7 @@
             style='color: green;'>CODE</span>}стинатор</a></span>!</h1>
 <p align="center" style="font-size: 20px;"><b>ОПИСАНИЕ</b>:
     про{<span style='color: green;'>CODE</span>}стинатор&nbsp;&mdash; это модифицированный шутливый генератор
-    прокрастинации для программистов, основанный на&nbsp;упражнении &laquo;Мастер прокрастинации&raquo; от&nbsp;<a
+    прокрастинации для программистов, основанный на идее&nbsp;упражнении &laquo;Мастер прокрастинации&raquo; от&nbsp;<a
         style="font-weight: bold; color: black;" href="https://practicum.yandex.ru">Яндекс.Практикум</a></p>
 <p align="center" style="font-size: 20px;"><b>КАК
         ИСПОЛЬЗОВАТЬ</b>: Нажмите на&nbsp;кнопку &laquo;<span style="font-size: 30px;">↺</span>&raquo;
