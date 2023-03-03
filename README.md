@@ -9,7 +9,7 @@
         style="font-weight: bold; color: black;" href="https://practicum.yandex.ru">Yandex.Practicum</a></p>
 <p align="justify" style="font-size: 20px;"><b>HOW
         TO&nbsp;USE</b>: Click on&nbsp;the button &laquo;<span style="font-size: 30px;">↺</span>&raquo; and generate
-    your own reason not to&nbsp;write the code (<i>although it&rsquo;s better to&nbsp;write&nbsp;it</i>).</p>
+    your reason not to&nbsp;write the code (<i>although it&rsquo;s better to&nbsp;write&nbsp;it</i>).</p>
 <hr>
 <h1 align="center"><a href="https://www.flagistrany.ru/rossija"><img alt="Флаг России"
             src="https://cdn-0.emojis.wiki/emoji-pics/twitter/russia-twitter.png" width="40" /></a></a> Добро пожаловать
@@ -17,8 +17,8 @@
             style='color: green;'>CODE</span>}стинатор</a></span>!</h1>
 <p align="justify" style="font-size: 20px;"><b>ОПИСАНИЕ</b>:
     про{<span style='color: green;'>CODE</span>}стинатор&nbsp;&mdash; это модифицированный шутливый генератор
-    прокрастинации для программистов, основанный на идее&nbsp;упражнении &laquo;Мастер прокрастинации&raquo; от&nbsp;<a
+    прокрастинации для программистов, основанный на идее&nbsp;упражнения &laquo;Мастер прокрастинации&raquo; от&nbsp;<a
         style="font-weight: bold; color: black;" href="https://practicum.yandex.ru">Яндекс.Практикум</a></p>
 <p align="justify" style="font-size: 20px;"><b>КАК
         ИСПОЛЬЗОВАТЬ</b>: Нажмите на&nbsp;кнопку &laquo;<span style="font-size: 30px;">↺</span>&raquo;
-    и&nbsp;сгенерируйте свою собственную причину не&nbsp;писать код (<i>хотя лучше его написать</i>).</p>
+    и&nbsp;сгенерируйте свою причину не&nbsp;писать код (<i>хотя лучше его написать</i>).</p>
