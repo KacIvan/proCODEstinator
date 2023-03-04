@@ -1,5 +1,5 @@
 <h1 align="center"><img alt="Flag of the United States of America"
-            src="https://cdn-0.emojis.wiki/emoji-pics/twitter/united-states-twitter.png" width="40" />Welcome
+            src="https://cdn-0.emojis.wiki/emoji-pics/twitter/united-states-twitter.png" width="40" /> Welcome
     to&nbsp;the
     <span style="font-family:Verdana, Geneva, Tahoma, sans-serif;"><a href="https://kacivan.github.io/proCODEstinator/">pro{<span
             style='color: green;'>CODE</span>}stinator</a></span>!</h1>
