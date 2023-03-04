@@ -26,16 +26,16 @@ let phrases = [
     { text: 'чинить свой комп', image: './assets/ideas_img/25.png' },
     { text: 'зависать на GitHub', image: './assets/ideas_img/26.png' },
     { text: 'объяснять бабушке, чем ты занимаешься на работе', image: './assets/ideas_img/27.png' },
-    { text: 'посмотреть залпом все части «Гарри Поттера»', image: '/assets/ideas_img/28.png' },
-    { text: 'постигать рекурсию, чтобы не писать код, а постигать рекурсию…', image: '/assets/ideas_img/29.png' },
-    { text: 'устроить марафон всех частей «Хоббит» и «Властелин Колец»', image: '/assets/ideas_img/30.png' },
-    { text: 'настраивать IDE', image: '/assets/ideas_img/31.png' },
-    { text: 'позаниматься спортом', image: '/assets/ideas_img/32.png' },
-    { text: 'поймать гениальное решение в душе', image: '/assets/ideas_img/33.png' },
-    { text: 'cмотреть на значок «Без доступа к Интернету»', image: '/assets/ideas_img/34.png' },
-    { text: 'пойти ставить винду бабе Зине', image: '/assets/ideas_img/35.png' },
-    { text: 'объяснять знакомой, почему ты не можешь взломать VK её парня', image: '/assets/ideas_img/36.png' },
-    { text: 'погулять со своей собакой', image: '/assets/ideas_img/37.png' }
+    { text: 'посмотреть залпом все части «Гарри Поттера»', image: './assets/ideas_img/28.png' },
+    { text: 'постигать рекурсию, чтобы не писать код, а постигать рекурсию…', image: './assets/ideas_img/29.png' },
+    { text: 'устроить марафон всех частей «Хоббит» и «Властелин Колец»', image: './assets/ideas_img/30.png' },
+    { text: 'настраивать IDE', image: './assets/ideas_img/31.png' },
+    { text: 'позаниматься спортом', image: './assets/ideas_img/32.png' },
+    { text: 'поймать гениальное решение в душе', image: './assets/ideas_img/33.png' },
+    { text: 'cмотреть на значок «Без доступа к Интернету»', image: './assets/ideas_img/34.png' },
+    { text: 'пойти ставить винду бабе Зине', image: './assets/ideas_img/35.png' },
+    { text: 'объяснять знакомой, почему ты не можешь взломать VK её парня', image: './assets/ideas_img/36.png' },
+    { text: 'погулять со своей собакой', image: './assets/ideas_img/37.png' }
 ];
 
 function getRandomElement(arr) {
