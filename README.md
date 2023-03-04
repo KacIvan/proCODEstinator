@@ -2,7 +2,7 @@
             src="https://cdn-0.emojis.wiki/emoji-pics/twitter/united-states-twitter.png" width="40" /> Welcome
     to&nbsp;the
     <span style="font-family:Verdana, Geneva, Tahoma, sans-serif;"><a href="https://kacivan.github.io/proCODEstinator/">pro{<span
-            style='color: green;'>CODE</span>}stinator</a></span>!</h1>
+            style='color: green;'>CODE</span>}stinator</a></span>!&#127482</h1>
 <p align="justify" style="font-size: 20px;"><b>DESCRIPTION</b>: pro{<span
         style='color: green;'>CODE</span>}stinator&nbsp;&mdash; is&nbsp;a&nbsp;modified funny procrastination generator
     for programmers, based on&nbsp;the idea of exercise &laquo;Master of&nbsp;Procrastination&raquo; from <a
