@@ -1,5 +1,5 @@
-<h1 align="center"><a href="https://www.flagistrany.ru/ssha"><img alt="Flag of the United States of America"
-            src="https://cdn-0.emojis.wiki/emoji-pics/twitter/united-states-twitter.png" width="40" /></a> Welcome
+<h1 align="center"><img alt="Flag of the United States of America"
+            src="https://cdn-0.emojis.wiki/emoji-pics/twitter/united-states-twitter.png" width="40" />Welcome
     to&nbsp;the
     <span style="font-family:Verdana, Geneva, Tahoma, sans-serif;"><a href="https://kacivan.github.io/proCODEstinator/">pro{<span
             style='color: green;'>CODE</span>}stinator</a></span>!</h1>
@@ -11,8 +11,8 @@
         TO&nbsp;USE</b>: Click on&nbsp;the button &laquo;<span style="font-size: 30px;">↺</span>&raquo; and generate
     your reason not to&nbsp;write the code (<i>although it&rsquo;s better to&nbsp;write&nbsp;it</i>).</p>
 <hr>
-<h1 align="center"><a href="https://www.flagistrany.ru/rossija"><img alt="Флаг России"
-            src="https://cdn-0.emojis.wiki/emoji-pics/twitter/russia-twitter.png" width="40" /></a></a> Добро пожаловать
+<h1 align="center"><img alt="Флаг России"
+            src="https://cdn-0.emojis.wiki/emoji-pics/twitter/russia-twitter.png" width="40" /> Добро пожаловать
     в&nbsp;<span style="font-family:Verdana, Geneva, Tahoma, sans-serif;"><a href="https://kacivan.github.io/proCODEstinator/">про{<span
             style='color: green;'>CODE</span>}стинатор</a></span>!</h1>
 <p align="justify" style="font-size: 20px;"><b>ОПИСАНИЕ</b>:
